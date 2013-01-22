@@ -2,5 +2,16 @@
 
 }
 body{
-background-color:#CDCDCD !important;
+background-image:url('../images/dark-wood-texture.jpg'); !important;
+
 }
+.linkFont{
+160 52 109
+ }
+ 
+
+li{
+color: rgb(62, 165, 26) !important;
+text-shadow:none !important;
+}
+ 
